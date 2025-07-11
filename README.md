@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Zeini | Full-Stack Developer
+# 🚀 Mohamed | Full-Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+from+Mauritania;Building+Amazing+Web+Applications;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
@@ -129,14 +129,6 @@ const Mohamed = new Developer();
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/babe051/babe051/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🌟 My Development Philosophy
 
 <div align="center">
@@ -161,8 +153,8 @@ const Mohamed = new Developer();
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/babe051)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeini.cheikh.dev@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#) -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.val0520)
 
 <!-- ---
 
