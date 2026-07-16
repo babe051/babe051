@@ -39,7 +39,7 @@ class Developer {
     }
     
     getLife() {
-        return ["gonne","Code", "Eat", "Sleep", "Repeat"];
+        return ["goon","Code", "Eat", "Sleep", "Repeat"];
     }
 }
 
